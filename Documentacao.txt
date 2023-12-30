@@ -1,0 +1,33 @@
+Para tela: Tkinter.
+Python a gosto.
+
+Quero uma classe Animal:
+Uma Classe Cachorro (Herdando de animal)
+Uma Classe Gato (Herdando de animal)
+Galo
+
+Uma tela com:
+	Campos:
+		checkbox inativo.
+		Código: 
+		Tipo: (Gato ou Cachorro) combobox
+		Nome: entry
+		Data de Nasc: Com mascara
+		Sexo: combobox ou checkbox
+		Peso:    entry
+		Altura:  entry
+	
+	Botões:
+		Procurar: usar nome como condição
+		Salvar:
+		Editar:
+		Excluir:
+
+Tratar comportamentos da tela, formatar dados.
+
+Conexão com um banco de dados salvando, editando ou excluindo o animal em questão.
+
+
+Use funções!!!
+
+Quero um .exe que executa o programa.
